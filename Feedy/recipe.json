@@ -1,0 +1,224 @@
+{
+  "recipe1": {
+    "name": "TOURNEDOS DE BOEUF AU BOURSIN",
+    "time": "20min",
+    "number": "4 pers.",
+    "steps": {
+      "step1": "Péparer la sauce : dans une casserole mettre 4 cuillères à café de fond de veau, ajoutez une petite tasse d'eau et mettre sur le feu.",
+      "step2": "Mélanger à l'aide d'une cuillère en bois, jusqu'à obtenir un mélange homogène et lisse. Ajouter la moitié du boursin et remuer jusqu'à ce qu'il soit complètement fondu.",
+      "step3": "Incorporer 20 cl de crème liquide et réserver au chaud.",
+      "step4": "Faites fondre une noisette de beurre dans une poêle, saisir les tournedos, saler, poivrer. Servir accompagné d'une julienne de légumes. Napper la viande de sauce.",
+      "step5": "Bon appêtit !"
+    },
+    "ingredients": {
+      "ingredient1": {
+        "name": "filet de boeuf",
+        "category": "boeuf",
+        "quantity": "4"
+      },
+      "ingredient2": {
+        "name": "beurre",
+        "category": "Beurres",
+        "quantity": "10g"
+      },
+      "ingredient3": {
+        "name": "boursin",
+        "category": "Fromages",
+        "quantity": "1"
+      },
+      "ingredient4": {
+        "name": "crème liquide",
+        "category": false,
+        "quantity": "20cl"
+      },
+      "ingredient5": {
+        "name": "fond de veau déshydraté",
+        "category": "Sauces déshydratées",
+        "quantity": "4 cuillères à café"
+      }
+    }
+  },
+  "recipe2": {
+    "name": "Magrets de canard au miel",
+    "time": "20min",
+    "number": "2 pers.",
+    "steps": {
+      "step1": "Inciser les magrets côté peau en quadrillage sans couper la viande.",
+      "step2": "Cuire les magrets à feu vif dans une cocotte en fonte, en commençant par le coté peau.",
+      "step3": "Le temps de cuisson dépend du fait qu'on aime la viande plus ou moins saignante. Compter environ 5 min de chaque côté. Retirer régulièrement la graisse en cours de cuisson.",
+      "step4": "Réserver les magrets au chaud (au four, couverts par une feuille d'aluminium).",
+      "step5": "Déglacer la cocotte avec le miel et le vinaigre balsamique. Ne pas faire bouillir, la préparation tournerait au caramel. Bien poivrer.",
+      "step6": "Mettre en saucière accompagnant le magret coupé en tranches.",
+      "step7": "Comme accompagnement, je suggère des petits navets glacés (cuits à l'eau puis passés au beurre avec un peu de sucre)."
+    },
+    "ingredients": {
+      "ingredient1": {
+        "name": "magrets de canard",
+        "category": "Magrets de canard",
+        "quantity": "2"
+      },
+      "ingredient2": {
+        "name": "miel",
+        "category": "Miels liquides",
+        "quantity": "2 cuillères à soupe"
+      },
+      "ingredient3": {
+        "name": "vinaigre balsamique",
+        "category": "Vinaigres balsamiques",
+        "quantity": "3 cuillères à café"
+      }
+    }
+  },
+  "recipe3": {
+    "name": "Pâtes carbonara",
+    "time": "20min",
+    "number": "4 pers.",
+    "steps": {
+      "step1": "Cuire les pâtes dans un grand volume d'eau bouillante salée.",
+      "step2": "Émincer les oignons et les faire revenir à la poêle. Dès qu'ils ont bien dorés, y ajouter les lardons.",
+      "step3": "Préparer dans un saladier la crème fraîche, les œufs, le sel, le poivre et mélanger.",
+      "step4": "Retirer les lardons du feu dès qu'ils sont dorés et les ajouter à la crème.",
+      "step5": "Une fois les pâtes cuite al denté, les égoutter et y incorporer la crème. Remettre sur le feu si le plat a refroidi."
+    },
+    "ingredients": {
+      "ingredient1": {
+        "name": "pâte",
+        "category": "Pâtes sèches",
+        "quantity": "500g"
+      },
+      "ingredient2": {
+        "name": "crème liquide",
+        "category": false,
+        "quantity": "50cl"
+      },
+      "ingredient3": {
+        "name": "oeufs",
+        "category": "Œufs de poules",
+        "quantity": "3 jaunes d’œuf"
+      },
+      "ingredient4": {
+        "name": "lardon",
+        "category": "Allumettes de porc",
+        "quantity": "250g"
+      },
+      "ingredient5": {
+        "name": "oignon",
+        "category": "Oignons",
+        "quantity": "1"
+      }
+    }
+  },
+  "recipe4": {
+    "name": "Salade César",
+    "time": "20min",
+    "number": "4 pers.",
+    "steps": {
+      "step1": "Faites dorer le pain, coupé en cubes, 3 min dans un peu d'huile.",
+      "step2": "Déchirez les feuilles de romaine dans un saladier, et ajoutez les croûtons préalablement épongés dans du papier absorbant.",
+      "step3": "Préparez la sauce : Faites cuire l'oeuf 1 min 30 dans l'eau bouillante, et rafraîchissez-le.",
+      "step4": "Cassez-le dans le bol d'un mixeur et mixez, avec tous les autres ingrédients; rectifiez l'assaissonnement et incorporez à la salade.",
+      "step5": "Décorez de copeaux de parmesan, et servez."
+    },
+    "ingredients": {
+      "ingredient1": {
+        "name": "laitue",
+        "category": "Salades vertes",
+        "quantity": "2 cœurs"
+      },
+      "ingredient2": {
+        "name": "parmesan",
+        "category": "Fromages",
+        "quantity": "25g"
+      },
+      "ingredient3": {
+        "name": "œuf",
+        "category": "Œufs de poules",
+        "quantity": "3 jaunes d’œuf"
+      },
+      "ingredient4": {
+        "name": "huile",
+        "category": "Huiles d'olive",
+        "quantity": "2 cuillères à soupe"
+      },
+      "ingredient5": {
+        "name": "œuf",
+        "category": "Œufs de poules",
+        "quantity": "1"
+      },
+      "ingredient6": {
+        "name": "parmesan rappé",
+        "category": "Fromages",
+        "quantity": "25g"
+      },
+      "ingredient7": {
+        "name": "tabasco",
+        "category": "Epicerie",
+        "quantity": "1 trait"
+      },
+      "ingredient8": {
+        "name": "citron",
+        "category": "Citrons",
+        "quantity": "1"
+      },
+      "ingredient9": {
+        "name": "moutarde",
+        "category": "Epicerie",
+        "quantity": "1/2 cuillère à café"
+      },
+      "ingredient10": {
+        "name": "gousse d'ail",
+        "category": "Ail",
+        "quantity": "1"
+      },
+      "ingredient11": {
+        "name": "huile",
+        "category": "Huiles d'olive",
+        "quantity": "15cl"
+      }
+    }
+  },
+  "recipe5": {
+    "name": "Rouleaux de printemps",
+    "time": "35min",
+    "number": "3pers.",
+    "steps": {
+      "step1": "Plongez les galettes de riz dans de l' eau chaude pendant quelques secondes pour qu'elles deviennent molles puis laissez légèrement égoutter.",
+      "step2": "Cuire le porc et les crevettes dans de l'eau chaude.",
+      "step3": "Étalez la galette de riz sur une table de travail.",
+      "step4": "Commencez par mettre une feuille de salade et quelques feuilles de menthe.",
+      "step5": "Mettez ensuite les vermicelles de riz."
+    },
+    "ingredients": {
+      "ingredient1": {
+        "name": "galettes de riz",
+        "category": "Galettes de riz",
+        "quantity": "6"
+      },
+      "ingredient2": {
+        "name": "vermicelles de riz",
+        "category": "Vermicelle de riz",
+        "quantity": "300g"
+      },
+      "ingredient3": {
+        "name": "crevette",
+        "category": "Crevettes",
+        "quantity": "500g"
+      },
+      "ingredient4": {
+        "name": "porc",
+        "category": "Porc",
+        "quantity": "50g"
+      },
+      "ingredient5": {
+        "name": "laitue",
+        "category": "Salades vertes",
+        "quantity": "6 feuilles"
+      },
+      "ingredient6": {
+        "name": "menthe",
+        "category": "Herbes aromatiques",
+        "quantity": "6 feuilles"
+      }
+    }
+  }
+}
